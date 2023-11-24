@@ -1,0 +1,51 @@
+{
+  "books": [
+    {
+      "id": 1,
+      "title": "The Great Gatsby",
+      "desc": "A novel by F. Scott Fitzgerald that captures the essence of the Roaring Twenties.",
+      "author": "F. Scott Fitzgerald",
+      "price": 12.99
+    },
+    {
+      "id": 2,
+      "title": "To Kill a Mockingbird",
+      "desc": "Harper Lee's classic novel addressing racial injustice in the American South.",
+      "author": "Harper Lee",
+      "price": 10.99
+    },
+    {
+      "id": 3,
+      "title": "1984",
+      "desc": "George Orwell's dystopian novel exploring the consequences of a totalitarian society.",
+      "author": "George Orwell",
+      "price": 15.99
+    },
+    {
+      "id": 4,
+      "title": "The Catcher in the Rye",
+      "desc": "J.D. Salinger's influential novel following the experiences of a teenage boy in New York City.",
+      "author": "J.D. Salinger",
+      "price": 11.99
+    },
+    {
+      "id": 5,
+      "title": "The Hobbit",
+      "desc": "J.R.R. Tolkien's classic fantasy novel about the journey of Bilbo Baggins.",
+      "author": "J.R.R. Tolkien",
+      "price": 14.99
+    },
+    {
+      "title": "sport book",
+      "price": "125",
+      "desc": "sfdads\n",
+      "id": 6
+    },
+    {
+      "title": "react hooks",
+      "price": "1450",
+      "desc": "very good for web developer",
+      "id": 7
+    }
+  ]
+}
